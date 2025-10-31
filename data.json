@@ -1,0 +1,23 @@
+{
+  "background": "images/bg.jpeg",
+  "pairs": [
+    {
+      "term": "Photosynthesis",
+      "def": "Process by which plants make food using sunlight"
+    },
+    {
+      "term": "Evaporation",
+      "def": "Turning of liquid into vapor"
+    },
+    {
+      "term": "Condensation",
+      "def": "Gas turning into liquid"
+    },
+    {
+      "term": "Gravity",
+      "def": "Force that pulls objects toward Earth"
+    }
+  ]
+}
+
+

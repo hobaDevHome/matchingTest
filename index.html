@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GSAP Matching Lines Game</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <h1>Match the Word with Its Definition</h1>
+
+  <div class="game-container">
+    <div class="column left" id="terms"></div>
+    <svg id="lines"></svg>
+    <div class="column right" id="definitions"></div>
+  </div>
+
+  <button id="restart">Restart</button>
+  <div class="result" id="result"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
