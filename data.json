@@ -2,8 +2,8 @@
   "background": "images/bg.jpeg",
   "pairs": [
     {
-      "term": "Photosynthesis",
-      "def": "Process by which plants make food using sunlight"
+      "term": "drout",
+      "def": "no water"
     },
     {
       "term": "Evaporation",
